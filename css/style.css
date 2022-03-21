@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600&display=swap');
+@import 'reset.css';
+@import 'momentum.css';
+
+body {
+  color: white;
+  font-family: 'Open sans', sans-serif;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  padding: 25px;
+}
